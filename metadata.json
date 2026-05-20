@@ -1,0 +1,6 @@
+{
+  "name": "Zenote",
+  "description": "An advanced, minimalistic markdown note-taking application with live Notion-style inline formatting and calendar integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

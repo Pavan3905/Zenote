@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- 1. Centered Notepad Base Frame -->
+    <path
+        android:pathData="M38,32C34.686,32 32,34.686 32,38L32,70C32,73.314 34.686,76 38,76L70,76C73.314,76 76,73.314 76,70L76,38C76,34.686 73.314,32 70,32L38,32Z"
+        android:strokeWidth="2.5"
+        android:strokeColor="#00E5FF"
+        android:fillColor="#11141C" />
+
+    <!-- 2. Notepad Horizontal Row Lines -->
+    <path
+        android:pathData="M40,43L68,43"
+        android:strokeWidth="2"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round" />
+
+    <path
+        android:pathData="M40,51L68,51"
+        android:strokeWidth="2"
+        android:strokeColor="#818CF8"
+        android:strokeLineCap="round" />
+
+    <path
+        android:pathData="M40,59L58,59"
+        android:strokeWidth="2"
+        android:strokeColor="#818CF8"
+        android:strokeLineCap="round" />
+
+    <!-- 3. Neon Checkbox Bullet Dot -->
+    <path
+        android:pathData="M64,59C64,57.895 64.895,57 66,57C67.105,57 68,57.895 68,59C68,60.105 67.105,61 66,61C64.895,61 64,60.105 64,59Z"
+        android:fillColor="#00E5FF" />
+
+    <!-- 4. Cosmic AI Sparkle Star on top right of note -->
+    <path
+        android:pathData="M78,30C78,25 76,24 74,22C76,20 78,19 78,14C78,19 79,20 82,22C79,24 78,25 78,30Z"
+        android:fillColor="#00E5FF" />
+
+</vector>
